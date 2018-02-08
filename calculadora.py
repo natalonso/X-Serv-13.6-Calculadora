@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Parametros: python calculadora.py función operando1 operando2
 
 import sys
 
